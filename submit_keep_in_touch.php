@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $number = htmlspecialchars($_POST['number']);
 
     // Email details
-    $to = "your-email@example.com"; // Replace with your email address
+    $to = "dineshkumarpdk33@gmail.com"; // Replace with your email address
     $subject = "Keep in Touch Form Submission";
 
     $body = "New keep in touch form submission:\n\n";
